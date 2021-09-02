@@ -1,6 +1,6 @@
 {
     "name": "lotgd-core/find-gold-bundle",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Find Gold event for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
